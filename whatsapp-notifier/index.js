@@ -13,8 +13,8 @@ const recipientNumber = '554399457231'; // Troque pelo seu número de destinatá
 
 // Lista de servidores a serem monitorados
 const servers = [
-    { url: 'http://10.72.3.130', isDown: false },
-    { url: 'http://200.201.27.34', isDown: false } // Adicione mais servidores se necessário
+    { url: 'http://', isDown: false },
+    { url: 'http://', isDown: false } // Adicione mais servidores se necessário
 ];
 
 // Evento que é acionado quando o QR Code é gerado
